@@ -1,4 +1,4 @@
-# cultural-transmission and the emergence of compositionaltiy
+# cultural-transmission and the emergence of compositionality
 
 
 This repository contains the code, and a Jupyter Notebook to generate the plots for the paper *"How Cultural Transmission Shapes Compositionality: A Unified Study with a Bayesian Agent-Based Model"*  
